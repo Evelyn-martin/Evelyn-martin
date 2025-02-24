@@ -57,12 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Evelyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evelynmartin&show_icons=true&theme=radical)  
-
----
-
 ## 📫 Let's Connect!  
 
 📌 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-evelynmartin-181717?style=flat-square&logo=github)](https://github.com/evelynmartin)  
